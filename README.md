@@ -13,6 +13,10 @@ The widgets that are included in this tutorial are only a subset of the entire i
 - FloatRangeSlider
 - ColorPicker
 
+# The Dataset
+
+The dataset used in this tutorial is an auto dataset, which is included in the repository. It can also be found on Kaggle:
+https://www.kaggle.com/datasets/uciml/autompg-dataset
 
 # Installation
 
