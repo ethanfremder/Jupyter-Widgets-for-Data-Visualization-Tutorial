@@ -27,3 +27,7 @@ In the terminal, to install with conda:
 ```bash
 conda install -c conda-forge ipywidgets
 ```
+
+
+# Author
+Created by Ethan Fremder, undergraduate student at Michigan State University
